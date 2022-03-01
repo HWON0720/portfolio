@@ -13,6 +13,9 @@
 
 ## Team Project
 ### 1. [Help My Menu](https://github.com/HWON0720/help-my-menu)
+#### 참여 인원
+- 4명
+
 #### 프로젝트 소개
 - 사용자 재료 기반 레시피 검색 서비스입니다.
 
@@ -34,6 +37,9 @@
 <br>
 
 ### 2. Yum-Yum Trend [(backend)](https://github.com/HWON0720/backend) | [(frontend)](https://github.com/HWON0720/frontend)
+#### 참여 인원
+- 4명
+
 #### 프로젝트 소개
 - 사용자 데이터 기반 맛집 사진 및 정보 공유 사이트입니다.
 

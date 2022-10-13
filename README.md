@@ -1,6 +1,5 @@
 # 안휘원 | 포트폴리오
-![반명함01-web](https://user-images.githubusercontent.com/90819869/158119554-16bd101b-1ebd-453b-9f8b-6afbfb47ed34.jpg)
-
+<img src="https://user-images.githubusercontent.com/90819869/195494229-802f5c77-af84-4fb0-b2aa-f6ad77588ad0.jpg" width="20%" height="20%"/>
 
 📧 E-mail: hwon0720@gmail.com
 
